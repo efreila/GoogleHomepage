@@ -1,0 +1,177 @@
+#logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 150px;
+	width: 350px;
+}
+
+#search {
+	display: block;
+	position: relative;
+	margin: auto;
+	width: 540px;
+	height: 35px;
+	margin-top: 10px;
+}
+
+.buttons {
+	position: relative;
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #757575;
+}
+
+.button {
+	position: absolute;
+	display: inline-block;
+	background-color: #ededed;
+	width: 140px;
+	height: 37px;
+	margin-top: 15px;
+	border-radius: 2px;
+	border: 1px solid white;
+}
+
+.button:hover {
+	border: 1px solid #bfc0c1 ;
+	color: black;
+}
+
+#searchbtn {
+	margin-left: 480px;
+}
+
+#feelinglucky {
+	margin-left: 635px;
+}
+
+#searchbtn p {
+	position: relative;
+	margin-left: 21px;
+	margin-top: 11px;
+
+}
+
+#feelinglucky p {
+	position: relative;
+	margin-top: 11.5px;
+	margin-left: 10px;
+}
+
+footer {
+	position: absolute;
+	background-color: #ededed;
+	width: 100%;
+	height: 40px;
+	left: 0;
+	bottom: 0;
+	border-top: 1px solid #bfc0c1;
+}
+
+footer p {
+	display: inline-block;
+	font-family: Arial;
+	font-size: 13px;
+	color: #666;
+}
+
+footer p:hover {
+	text-decoration: underline;
+}
+
+.footerl {
+	display: inline;
+	position: relative;
+	margin-left: 17px;
+	top: 10px;
+}
+
+.footerl p {
+	position: relative;
+	display: inline;
+	margin: 13px;
+
+}
+
+.footerr {
+	display: inline;
+	position: relative;
+	margin-left: 793px;
+	top: 10px;
+}
+
+.footerr p {
+	position: relative;
+	display: inline;
+	margin: 13px;
+}
+
+.header {
+	position: absolute;
+	top: -20px;
+	left: 980px;
+	width: 100%;
+	list-style-type: none;
+	font-family: Arial;
+	font-size: 13px;
+	color: #666;
+}
+
+#signin {
+	display: inline-block;
+	position: absolute;
+	width: 75px;
+	height: 30px;
+	background-color: #4286f4;
+	border-radius: 3px;
+	color: white;
+	text-align: center;
+	margin-top: 20px;
+}
+
+#signin:hover {
+	background-color: #2b77f2;
+}
+
+#box {
+	top: 14px;
+	right: 1px;
+	opacity: 0.65;
+}
+
+div li {
+	top: 2px;
+}
+
+li, li img {
+	position: relative;
+	display: inline-block;
+	margin: 4px
+}
+
+.under:hover {
+	text-decoration: underline;
+}
+
+#box:hover {
+	opacity: 1;
+}
+
+input:hover {
+	border: 1px solid #979899;
+}
+
+input {
+	font-size: 14px;
+	border: 1px solid #c2c4c6;
+}
+
+.link {
+	text-decoration: none;
+}
+
+.link:visited {
+	color: #666;
+}
